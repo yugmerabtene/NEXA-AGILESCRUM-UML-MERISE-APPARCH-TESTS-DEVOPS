@@ -1,6 +1,6 @@
 # CHAPITRE-01 – L'Agilité et le Framework Scrum
 
-## 🌟 Objectifs pédagogiques
+## Objectifs pédagogiques
 
 * Comprendre les origines et principes de l'agilité
 * Identifier les rôles, événements et artefacts du framework Scrum
